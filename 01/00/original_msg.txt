@@ -1,0 +1,21 @@
+MIME-Version: 1.0
+Received: by 10.200.34.235 with HTTP; Sun, 31 Dec 2017 15:54:13 -0800 (PST)
+Date: Mon, 1 Jan 2018 08:54:13 +0900
+Delivered-To: yttry0@gmail.com
+Message-ID: <CABX7gBD4kByJL6Q5mFWnPEyMTM30uNtqw2Fw3v5vcoG-jwLYWA@mail.gmail.com>
+Subject: =?UTF-8?B?6YCB5L+h44OG44K544OI?=
+From: <from@mail.com>
+To: to@mail.com
+Content-Type: multipart/alternative; boundary="001a11c15dde2a2fd50561ab95c2"
+
+--001a11c15dde2a2fd50561ab95c2
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: base64
+
+5pys5paH44Gn44GZ44CCDQo=
+--001a11c15dde2a2fd50561ab95c2
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: base64
+
+PGRpdiBkaXI9Imx0ciI+5pys5paH44Gn44GZ44CCPGJyPjwvZGl2Pg0K
+--001a11c15dde2a2fd50561ab95c2--
